@@ -1,5 +1,7 @@
 # uniTOzawgyi
-Script to change myanmar unicode system font to myanmar zawgyi font. ROOT ACCESS NEED.
+Script to change myanmar unicode system font to myanmar zawgyi font. 
+ROOT ACCESS NEED.
+
 Guide to use 
 - [Download terminal emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm)
 - Run script by typing 'sh run.sh' 
