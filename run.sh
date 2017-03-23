@@ -52,7 +52,7 @@ echo =====Done!=====
 else
  
    echo "This tool isn't comparable with your device:("
-
+   exit
 fi
 
 else
