@@ -25,7 +25,7 @@ echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 echo @@____Unicode to Zawgyi changer___@@
 echo @@__________by CH405 HE!N_________@@
 echo @@__Visit http://www.facebook.com_@@
-echo @@______/yhh.juliankevinhein______@@
+echo @@______/yhh.Ch405______@@
 echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@            
 sleep 3
 
